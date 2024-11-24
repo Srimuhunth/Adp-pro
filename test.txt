@@ -1,0 +1,1 @@
+Today(24.11.24) I have created a new file:test.txt under Adp pro under main subfolder
